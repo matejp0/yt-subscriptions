@@ -1,4 +1,4 @@
-This script converts your Youtube subscriptions to [Youtube cli client yt](https://github.com/sayan01/scripts/blob/master/yt). Make sure that you have [it](https://github.com/sayan01/scripts/blob/master/yt) installed before proceeding
+This script converts your Youtube subscriptions to [Youtube cli client yt](https://github.com/sayan01/scripts/blob/master/yt). Make sure that you have [it](https://github.com/sayan01/scripts/blob/master/yt) installed before proceeding any further.
 
 # Usage
 ## 1. Get the subscriptions file
